@@ -1,44 +1,50 @@
 # Librería de Microcontroladores para Proteus
 
-Descarga e instala la librería de microcontroladores siguiendo estos pasos.
+Sigue estos pasos para descargar e instalar la librería.
 
 ---
 
-## 1. Descargar la librería
+## 1. Descargar la librería microfono
 
-[**Descargar librería de microcontroladores para Proteus**](https://github.com/XuNnito/microfono-proteus/raw/refs/heads/gh-pages/Microphone-1.zip)  
+[**Descargar librería de microcontroladores para Proteus**](https://github.com/XuNnito/microfono-proteus/raw/refs/heads/gh-pages/Microphone-1.zip)
 
-> Haz clic en el enlace para descargar el archivo `.zip` de la librería.
+> Dale clic al enlace y baja el archivo `.zip`.
 
 ---
 
 ## 2. Descomprimir el archivo
 
-1. Una vez descargado el archivo, haz clic derecho sobre el `.zip` y selecciona **"Extraer aquí"** o **"Extraer en..."**.
-2. Abre la carpeta resultante. Dentro encontrarás los archivos de la librería.
+1. Cuando termine la descarga, dale clic derecho al `.zip`.
+2. Selecciona **"Extraer aquí"** o **"Extraer en..."**.
+3. Abre la carpeta que se creó y revisa los archivos.
 
 ---
 
-## 3. Copiar el archivo de la librería
+## 3. Copiar los archivos de la librería
 
-1. Busca el archivo de la librería con extensión `.LIB` o `.IDX` (según corresponda).
-2. Haz clic sobre el archivo y presiona **Ctrl + C** (copiar).
+1. Ubica los archivos con extensión `.LIB` y `.IDX`.
+2. Selecciónalos y presiona **Ctrl + C**.
 
 ---
 
 ## 4. Pegar la librería en Proteus
 
-1. Abre carpeta.
-2. busca el siguente **C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\LIBRARY** dependiendo de tu versión y carpeta donde tenias guardado.
-3. En la carpeta que se abre, presiona **Ctrl + V** (pegar) para copiar la librería.
-4. Cierra la carpeta y regresa a Proteus.
-5. Reinicia Proteus para que reconozca la nueva librería.
+1. Abre la carpeta de instalación de Proteus.
+2. Ve a la ruta:  
+   **C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\LIBRARY**
+3. Si instalaste Proteus en otra ruta, busca la carpeta **LIBRARY** ahí.
+4. Dentro de la carpeta, presiona **Ctrl + V** para pegar los archivos.
+5. Cierra todo y abre Proteus.
+6. Reinícialo para que detecte la nueva librería.
 
 ---
 
-## 5. Verificar instalación
+## 5. Verificar la instalación
 
 1. Abre un proyecto en Proteus.
-2. Presiona **P** para abrir el panel de componentes.
-3. Busca el microcontrolador que acabas de instalar.
-4. Si aparece en la lista, la instalación fue exitosa.
+2. Presiona **P** para abrir la lista de componentes.
+3. Busca el microcontrolador que agregaste.
+4. Si aparece, ya quedó todo bien instalado.
+
+---
+
