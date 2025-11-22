@@ -2,18 +2,55 @@
 
 Sigue estos pasos para descargar e instalar la librería.
 
----
-
-## 1. Descargar la librerías
-
-[**Descargar librería de microfono para Proteus**](https://github.com/XuNnito/microfono-proteus/raw/refs/heads/gh-pages/Microphone-1.zip)
-> Dale clic al enlace y baja el archivo `.zip`.
 
 ---
-[**Descargar librería de arduino uno para Proteus**](https://github.com/XuNnito/microfono-proteus/raw/refs/heads/gh-pages/Arduino-Library-for-Proteus.zip)
-> Dale clic al enlace y baja el archivo `.zip`.
+
+## 1. Micrófonos
+
+### Micrófono Electret
+[**Descargar librería de micrófono para Proteus**](https://github.com/XuNnito/microfono-proteus/raw/refs/heads/gh-pages/Microphone-1.zip)
 
 ---
+
+## 2. Arduino
+
+### Arduino UNO
+[**Descargar Arduino UNO**](https://github.com/XuNnito/microfono-proteus/raw/refs/heads/gh-pages/Arduino-Library-for-Proteus.zip)
+
+### Arduino Pro Mini / Nano / Mega
+[**Descargar Arduino Pro/Nano/Mega**](https://github.com/XuNnito/microfono-proteus/raw/refs/heads/gh-pages/Arduino-Pro-Nano-Mega.zip)
+
+---
+
+## 3. Módulos ESP
+
+### ESP8266 / NodeMCU
+[**Descargar ESP8266 / NodeMCU**](https://github.com/XuNnito/microfono-proteus/raw/refs/heads/gh-pages/ESP8266-NodeMCU.zip)
+
+### ESP32
+[**Descargar ESP32**](https://github.com/XuNnito/microfono-proteus/raw/refs/heads/gh-pages/ESP32.zip)
+
+---
+
+## 4. Sensores y Módulos
+
+### Sensor Pack (LM35, HC-SR04, IR, sonido)
+[**Descargar Sensor Pack**](https://github.com/XuNnito/microfono-proteus/raw/refs/heads/gh-pages/Sensor-Pack.zip)
+
+### NRF24L01
+[**Descargar NRF24L01**](https://github.com/XuNnito/microfono-proteus/raw/refs/heads/gh-pages/NRF24L01.zip)
+
+### LCD I2C y OLED SSD1306
+[**Descargar Displays Pack**](https://github.com/XuNnito/microfono-proteus/raw/refs/heads/gh-pages/Displays-Pack.zip)
+
+### Drivers de Motor (L298N, L293D)
+[**Descargar Drivers de Motor**](https://github.com/XuNnito/microfono-proteus/raw/refs/heads/gh-pages/Motor-Drivers.zip)
+
+### Módulos básicos (Relé, Buzzer, Keypad, Joystick)
+[**Descargar Basic Modules Pack**](https://github.com/XuNnito/microfono-proteus/raw/refs/heads/gh-pages/Basic-Modules-Pack.zip)
+
+---
+
 ## 2. Descomprimir el archivo
 
 1. Cuando termine la descarga, dale clic derecho al `.zip`.
