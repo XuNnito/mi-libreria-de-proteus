@@ -28,12 +28,11 @@ Descarga e instala la librería de microcontroladores siguiendo estos pasos.
 
 ## 4. Pegar la librería en Proteus
 
-1. Abre Proteus.
-2. Haz clic en **Biblioteca** o ve a **Data > Library** dependiendo de tu versión.
-3. Haz clic derecho y selecciona **"Abrir ubicación del archivo"**.
-4. En la carpeta que se abre, presiona **Ctrl + V** (pegar) para copiar la librería.
-5. Cierra la carpeta y regresa a Proteus.
-6. Reinicia Proteus para que reconozca la nueva librería.
+1. Abre carpeta.
+2. busca el siguente **C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\LIBRARY** dependiendo de tu versión y carpeta donde tenias guardado.
+3. En la carpeta que se abre, presiona **Ctrl + V** (pegar) para copiar la librería.
+4. Cierra la carpeta y regresa a Proteus.
+5. Reinicia Proteus para que reconozca la nueva librería.
 
 ---
 
