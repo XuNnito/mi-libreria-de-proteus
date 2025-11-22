@@ -29,10 +29,16 @@ Sigue estos pasos para descargar e instalar la librería.
 
 ## 4. Pegar la librería en Proteus
 
+### Ruta (clic para copiar)
+
+<div style="display:flex;align-items:center;gap:10px;">
+  <code>C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\LIBRARY</code>
+  <button onclick="navigator.clipboard.writeText('C:\\Program Files (x86)\\Labcenter Electronics\\Proteus 8 Professional\\LIBRARY')">📋 Copiar</button>
+</div>
+
 1. Abre la carpeta de instalación de Proteus.
-2. Ve a la ruta:  
-   **C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\LIBRARY**
-3. Si instalaste Proteus en otra ruta, busca la carpeta **LIBRARY** ahí.
+2. Ve a la ruta mostrada arriba.
+3. Si instalaste Proteus en otra ubicación, busca la carpeta **LIBRARY** ahí.
 4. Dentro de la carpeta, presiona **Ctrl + V** para pegar los archivos.
 5. Cierra todo y abre Proteus.
 6. Reinícialo para que detecte la nueva librería.
@@ -47,4 +53,3 @@ Sigue estos pasos para descargar e instalar la librería.
 4. Si aparece, ya quedó todo bien instalado.
 
 ---
-
