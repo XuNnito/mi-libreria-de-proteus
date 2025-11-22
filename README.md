@@ -45,4 +45,3 @@ Sigue estos pasos para descargar e instalar la librería.
 3. Busca el microcontrolador que agregaste.
 4. Si aparece, ya quedó todo bien instalado.
 
----2
