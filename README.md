@@ -1,4 +1,4 @@
-# Librería de Microcontroladores para Proteus
+# Librería de para Proteus
 
 Sigue estos pasos para descargar e instalar la librería.
 
