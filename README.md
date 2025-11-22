@@ -6,7 +6,7 @@ Descarga e instala la librería de microcontroladores siguiendo estos pasos.
 
 ## 1. Descargar la librería
 
-[**Descargar librería de microcontroladores para Proteus**](Microphone-1.zip)  
+[**Descargar librería de microcontroladores para Proteus**]([[Microphone-1.zip](https://github.com/XuNnito/microfono-proteus/raw/refs/heads/gh-pages/Microphone-1.zip](https://github.com/XuNnito/microfono-proteus/raw/refs/heads/gh-pages/Microphone-1.zip)))  
 
 > Haz clic en el enlace para descargar el archivo `.zip` de la librería.
 
